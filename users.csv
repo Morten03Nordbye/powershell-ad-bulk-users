@@ -1,6 +1,6 @@
 firstname;lastname;username;password;ou;groupname
-Per;Hansen;PerHansen1;Password2023;OU=Administrasjon,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=Administrasjon-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
-Guri;Olsen;GuriOlsen1;Password2023;OU=Administrasjon,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=Administrasjon-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
+Per;Hansen;PerHansen1;Password2023;OU=Administrasjon,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=MANAGER-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
+Guri;Olsen;GuriOlsen1;Password2023;OU=Administrasjon,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=MANAGER-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
 Stian;Jensen;StianJensen1;Password2023;OU=IT,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=IT-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
 Sigrunn;Johansen;SigrunnJohansen1;Password2023;OU=IT,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=IT-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
 Ali;Behn;AliBehn1;Password2023;OU=IT,OU=Users,OU=NORDBYE,DC=nordbye,DC=local;CN=IT-access,OU=Groups,OU=NORDBYE,DC=nordbye,DC=local
